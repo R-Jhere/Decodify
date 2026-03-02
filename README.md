@@ -3,7 +3,7 @@
 [![Phase](https://img.shields.io/badge/Phase-1%20Complete-00ff41.svg)](https://github.com/Chirag1724/Decodify)
 [![Status](https://img.shields.io/badge/Phase%202-In%20Development-ff6b35.svg)](https://github.com/Chirag1724/Decodify)
 
-> A cyberpunk-themed gaming platform with cryptography and memory challenges
+> A cyberpunk-themed gaming platform with cryptography and memory challenges:
 
 ## 🎮 Games (Phase 1)
 - **CipherGame** - Crack encrypted messages and decode secret communications
